@@ -1,0 +1,7 @@
+{
+  "servers": [
+    { "name": "Server 1", "hostname": "localhost", "port": "50000" },
+    { "name": "Server 2", "hostname": "localhost", "port": "50001" },
+    { "name": "Server 3", "hostname": "localhost", "port": "50002" }
+  ]
+}
